@@ -1,0 +1,7 @@
+s1 = input("Nama Kamu siapa? ")
+s2 = input("Darimana asal kamu? ")
+s3 = input("Sebelumnya kamu bersekolah dimana? ")
+print("N")
+print("hallo selamat siang "+ s1)
+print("Wah dari "+ s2)
+print("Pasti menyenangkan bersekolah di "+ s3)
